@@ -12,13 +12,13 @@ title: What I wish I knew when I started building my first app
 - Playing with sample code without trying to implement something new, might teach you a couple of lessons, but if you want to learn to code you need to have a specific goal.
 - If you do not know what problem to solve, look at your everyday tasks and find the ones that are repetitive and can be broken down into steps. 
 - Scratching your own itch is going to give you more creative freedom as you understand the product and are better able to test your code.
-- Start with the simplest idea you can come up with: an aeropress timer or a nursing clock are both good ideas, but also taken. The smaller the problem, the better. Expanding is easy, simplifying is hard.
+- Start with the simplest idea you can come up with: an aeropress timer or a [nursing clock](http://5by5.tv/buildanalyze/78) are both good ideas, but also taken. The smaller the problem, the better. Expanding is easy, simplifying is hard.
 - Build on the work of others, but do not solve a problem that others have already solved better than you ever can.
 
 
 ## GitHub, GitHub, GitHub: 
 
-- GitHub can easily be integrated with Xcode for versioning. Versioning is essential for deleting code with a good consciousness and deleting code is essential for getting better.
+- [GitHub](http://github.com) can easily be integrated with Xcode for versioning. Versioning is essential for deleting code with a good consciousness and deleting code is essential for getting better.
 - GitHub Issues is great for creating todo-lists (making [deadlines](http://jonasribe.com/2014/03/05/Shipping-delays/)) and planning features for future versions of your app.
 - GitHub pages are great for hosting your app's website using [Jekyll](http://jekyllrb.com).
 - GitHub wikis are great for maintaining documentation for your app or just yourself.
@@ -29,7 +29,7 @@ title: What I wish I knew when I started building my first app
 
 - There are many great books on programming, but they were not what I needed to get started.
 - To get into Cocoa, I had to find my problem, break it into smaller problems and look for solutions to each.
-- StackOverflow contain solutions with example code to loads of specific problem. Many of the solutions are good, some are outdated and some just bad, but they can all be what you need to figure out your own solution.
+- [StackOverflow](http://stackoverflow.com/) contain solutions with example code to loads of specific problem. Many of the solutions are good, some are outdated and some just bad, but they can all be what you need to figure out your own solution.
 - StackOverflow is great for getting a grip of the diversity of solutions different people come up with to the same problem.
 - Reading books when you are beginning to grasp the scope of your problems, might be a good idea.
 
