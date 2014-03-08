@@ -19,7 +19,7 @@ title: What I wish I knew when I started building my first app
 ## GitHub, GitHub, GitHub: 
 
 - [GitHub](http://github.com) can easily be integrated with Xcode for versioning. Versioning is essential for deleting code with a good consciousness and deleting code is essential for getting better.
-- GitHub Issues is great for creating todo-lists (making [deadlines](http://jonasribe.com/2014/03/05/Shipping-delays/)) and planning features for future versions of your app.
+- GitHub Issues is great for collaborating, creating todo-lists (making [deadlines](http://jonasribe.com/2014/03/05/Shipping-delays/)) and planning features for future versions of your app.
 - GitHub pages are great for hosting your app's website using [Jekyll](http://jekyllrb.com).
 - GitHub wikis are great for maintaining documentation for your app or just yourself.
 - There are loads of great Cocoa code on GitHub.
