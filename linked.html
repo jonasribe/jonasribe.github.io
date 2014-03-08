@@ -1,0 +1,21 @@
+---
+layout: page
+title: Linked
+---
+
+<h2>Linked list</h2>
+
+<section>
+    <table>
+	     {% for post in site.posts %}
+			{%if post.link %} 
+		        <tr>
+		            <td> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d. %b %Y"}}</time></td>  
+		            <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
+		        </tr>
+			{% endif %}
+		{% endfor %}
+    </table>
+</section>
+
+<hr>
