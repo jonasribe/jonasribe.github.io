@@ -22,7 +22,6 @@ I loved this plan 5 years ago, but I never expected it to play out. Now it seems
 
 * 0% VAT on electric cars
 * Low fees
-* Cheap electricity and expensive gas
 * No toll and ferry fees
 * Free public parking and charging
 * Ability to drive in bus lanes
