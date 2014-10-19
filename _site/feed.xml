@@ -3,7 +3,25 @@
 	<channel>
 		<title>Jonas Ribe</title>
 		<description>Personal pixels</description>
-		<link>http://jonasribe.com/</link>
+		<link>http://jonasribe.com</link>
+		
+			<item>
+				<title>Alan Adler's AeroPress</title>
+				<description>&lt;blockquote&gt;&lt;p&gt;The AeroPress was conceived at Alan Adler’s dinner table. The company was having a team meal, when the wife of Aerobie’s sales manager posed a question: “What do you guys do when you just want one cup of coffee?”&lt;/p&gt;
+
+&lt;p&gt;A long-time coffee enthusiast and self-proclaimed “one cup kinda guy,” Adler had wondered this many times himself. He’d grown increasingly frustrated with his coffee maker, which yielded 6-8 cups per brew. In typical Adler fashion, he didn’t let the problem bother him long: he set out to invent a better way to brew single cup of coffee.&lt;/p&gt;
+
+&lt;p&gt;He started by experimenting with pre-existing brewing methods. Automatic drip makers were the most popular way to make coffee, but “coffee connoisseurs” seemed to prefer the pour-over method &amp;ndash; either using a Melitta cone (or other variety), or French Press. Adler quickly found the faults in these devices.&lt;/p&gt;
+
+&lt;p&gt;The Melitta cone, a device you place over your cup with a filter and pour water into, has “an average wet time of about 4-5 minutes,” according to Adler. The longer the wet time, the more acidity and bitterness leech out of the grounds into the cup. Adler figured this time could be dramatically reduced, quelling bad-tasting byproducts.&lt;/p&gt;
+
+&lt;p&gt;It struck Adler that he could use air pressure to shorten this process. After a few weeks in his garage, he’d already created a prototype: a plastic tube that used plunger-like action to compress the flavors quickly out of the grounds. He brewed his first cup with the invention, and knew he’d made something special. Immediately, he called his business manager Alex Tennant.&lt;/p&gt;
+
+&lt;p&gt;Tennant tasted the brew, and stepped back. “Alan,” he said, “I can sell a ton of these.”&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+				<published>2014-03-13 00:00:00 +0100</published>
+				<link>http://jonasribe.com/aeropress,%20coffee/2014/03/13/Alan-Adlers-AeroPress/</link>
+			</item>
 		
 			<item>
 				<title>What I wish I knew when I started building my first app</title>
@@ -15,7 +33,7 @@
 &lt;li&gt;Playing with sample code without trying to implement something new, might teach you a couple of lessons, but if you want to learn to code you need to have a specific goal.&lt;/li&gt;
 &lt;li&gt;If you do not know what problem to solve, look at your everyday tasks and find the ones that are repetitive and can be broken down into steps.&lt;/li&gt;
 &lt;li&gt;Scratching your own itch is going to give you more creative freedom as you understand the product and are better able to test your code.&lt;/li&gt;
-&lt;li&gt;Start with the simplest idea you can come up with: an aeropress timer or a nursing clock are both good ideas, but also taken. The smaller the problem, the better. Expanding is easy, simplifying is hard.&lt;/li&gt;
+&lt;li&gt;Start with the simplest idea you can come up with: an aeropress timer or a &lt;a href=&quot;http://5by5.tv/buildanalyze/78&quot;&gt;nursing clock&lt;/a&gt; are both good ideas, but also taken. The smaller the problem, the better. Expanding is easy, simplifying is hard.&lt;/li&gt;
 &lt;li&gt;Build on the work of others, but do not solve a problem that others have already solved better than you ever can.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -23,8 +41,8 @@
 &lt;h2&gt;GitHub, GitHub, GitHub:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;GitHub can easily be integrated with Xcode for versioning. Versioning is essential for deleting code with a good consciousness and deleting code is essential for getting better.&lt;/li&gt;
-&lt;li&gt;GitHub Issues is great for creating todo-lists (making &lt;a href=&quot;http://jonasribe.com/2014/03/05/Shipping-delays/&quot;&gt;deadlines&lt;/a&gt;) and planning features for future versions of your app.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt; can easily be integrated with Xcode for versioning. Versioning is essential for deleting code with a good consciousness and deleting code is essential for getting better.&lt;/li&gt;
+&lt;li&gt;GitHub Issues is great for collaborating, creating todo-lists (making &lt;a href=&quot;http://jonasribe.com/2014/03/05/Shipping-delays/&quot;&gt;deadlines&lt;/a&gt;) and planning features for future versions of your app.&lt;/li&gt;
 &lt;li&gt;GitHub pages are great for hosting your app&amp;rsquo;s website using &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;GitHub wikis are great for maintaining documentation for your app or just yourself.&lt;/li&gt;
 &lt;li&gt;There are loads of great Cocoa code on GitHub.&lt;/li&gt;
@@ -37,7 +55,7 @@
 &lt;ul&gt;
 &lt;li&gt;There are many great books on programming, but they were not what I needed to get started.&lt;/li&gt;
 &lt;li&gt;To get into Cocoa, I had to find my problem, break it into smaller problems and look for solutions to each.&lt;/li&gt;
-&lt;li&gt;StackOverflow contain solutions with example code to loads of specific problem. Many of the solutions are good, some are outdated and some just bad, but they can all be what you need to figure out your own solution.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/&quot;&gt;StackOverflow&lt;/a&gt; contain solutions with example code to loads of specific problem. Many of the solutions are good, some are outdated and some just bad, but they can all be what you need to figure out your own solution.&lt;/li&gt;
 &lt;li&gt;StackOverflow is great for getting a grip of the diversity of solutions different people come up with to the same problem.&lt;/li&gt;
 &lt;li&gt;Reading books when you are beginning to grasp the scope of your problems, might be a good idea.&lt;/li&gt;
 &lt;/ul&gt;
@@ -62,7 +80,7 @@
 
 </description>
 				<published>2014-03-08 00:00:00 +0100</published>
-				<link>http://jonasribe.com//2014/03/08/Solve-a-Real-Problem/</link>
+				<link>http://jonasribe.com/2014/03/08/Solve-a-Real-Problem/</link>
 			</item>
 		
 			<item>
@@ -80,7 +98,7 @@ Rogaland, on an event held by Grønn By in Stavanger Wednesday.&lt;/p&gt;&lt;/bl
 &lt;p&gt;Rogaland is a region in Norway famous for oil and gas industry. Stavanger, the biggest city in the region, has traditionally expressed its wealth through &lt;a href=&quot;http://www.aftenbladet.no/nytte/bil/Porschebyen-Stavanger-1839237.html#.UxmJP9wU4ds&quot;&gt;expensive cars&lt;/a&gt;. Seeing the popularity of the Tesla Model S explode like this will drive adoption of electric vehicles like nothing else. If employees of oil and gas companys are the ones to move us away from fossile fules, that would just make the story better!&lt;/p&gt;
 </description>
 				<published>2014-03-06 00:00:00 +0100</published>
-				<link>http://jonasribe.com//2014/03/06/Tesla-Town/</link>
+				<link>http://jonasribe.com/2014/03/06/Tesla-Town/</link>
 			</item>
 		
 			<item>
@@ -112,7 +130,7 @@ And then run the electricity grid like the internet.&lt;/p&gt;&lt;/blockquote&gt
 &lt;p&gt;These incentives are limited to 50,000 Evs or until 2017, if the number is not reached by then. There are already more than 20,000 EVs on the road in Norway and predictions indicate that we will reach 50,000 cars by sometime next year. The incentives have made cars like the Nissan Leaf and more recently the Tesla Model S very popular cars in Norway. Some think of it as just a fluke or a benefit for rich people who want to appear environment friendly, but in reality do what they can to escape government taxes. Others, me included, think it is a huge step in the right direction. I think the car market, starting with Norway, is ripe for disruption!&lt;/p&gt;
 </description>
 				<published>2014-03-06 00:00:00 +0100</published>
-				<link>http://jonasribe.com//2014/03/06/Steve-Wozniak-on-Norway/</link>
+				<link>http://jonasribe.com/2014/03/06/Steve-Wozniak-on-Norway/</link>
 			</item>
 		
 			<item>
@@ -142,7 +160,7 @@ And then run the electricity grid like the internet.&lt;/p&gt;&lt;/blockquote&gt
 
 </description>
 				<published>2014-03-05 00:00:00 +0100</published>
-				<link>http://jonasribe.com//2014/03/05/Shipping-delays/</link>
+				<link>http://jonasribe.com/2014/03/05/Shipping-delays/</link>
 			</item>
 		
 	</channel>
